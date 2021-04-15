@@ -13,18 +13,18 @@
 </div>
 
 ---
-This repo contains all the necessary hardware for noah-robot. 
+Este repositorio contiene todas las instancias necesarias para el hardware del noah-robot; pero a diferencia el proyecto original en español y solo con componentes de mercadolibre y sin tarjetas propias o particulares. 
 
-## Table of Contents
+## Tabla de Contenidos
 
-- [Table of Contents](#table-of-contents)
-- [About](#about)
-- [Mechanics](#mechanics)
-- [Electronics](#electronics)
+- [Tabla de Contenidos](#table-of-contents)
+- [Contexto](#about)
+- [Mechanica](#mechanics)
+- [Electronica](#electronics)
 - [Firmware](#firmware)
 - [Videos](#videos)
-- [Clone the repo](#clone-the-repo)
-- [Authors](#authors)
+- [Clonar el repo](#clone-the-repo)
+- [Autores](#authors)
 
 ## About
 
