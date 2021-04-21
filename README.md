@@ -17,44 +17,44 @@ Este repositorio contiene todas las instancias necesarias para el hardware del n
 
 ## Tabla de Contenidos
 
-- [Tabla de Contenidos](#table-of-contents)
-- [Contexto](#about)
-- [Mechanica](#mechanics)
-- [Electronica](#electronics)
+- [Tabla de Contenidos](#tabla-de-contenidos)
+- [Contexto](#contexto)
+- [Mecánica](#mecánica)
+- [Electrónica](#electrónica)
 - [Firmware](#firmware)
 - [Videos](#videos)
 - [Clonar el repo](#clone-the-repo)
 - [Autores](#authors)
 
-## About
+## Contexto
 
-As a final thesis project of Electronics engineering, I decided to build a robot from scratch. All the design was made in order to build the robot with parts that can be bought in Argentina.
+Como trabajo final de su tesis, @GonzaCerv decidio armar un robot de cero y compatible con turtlebot; pero tomando en cuenta que las piezas que lo componen puedan ser compradas en latinoamerica. Buscando un proyecto sobre el cual contruir una plataforma en comun para el desarrollo de ROS en los paises hipanoparlantes, La comunidad de ROS Es/Sp toma el proyecto con el objeto de replicarlo y potenciarlo.
 
-Take a look to the other repos related to this project:
+Algunos de los repositorios originales hermano se pueden encontrar en:
 
+- [noah-hardware](https://github.com/GonzaCerv/noah-hardware).
 - [noah-software](https://github.com/GonzaCerv/noah-software).
 - [noah-docker](https://github.com/GonzaCerv/noah-docker).
 
-## Mechanics
+## Mecánica
 
  <img width=400px src="Doc/images/Explode.png" alt="explode"></a>
 
-The robot is made out of 3D printed parts, some parts made with 3mm laser cut and vitamins. All the parts were designed with Solidworks. You can find those parts as well as files for construction in the [3D model section](./noah-hardware\Doc\3D_model).
+El robot se encuentra estructuralemente compuesto por piezas impresas en 3D y algunas partes realizadas mediante corte laser de 3mm. Todas las partes fueron diseñadas en Solidworks. Usted puede encontrar estas tabti como otros archivos necesarios para la construccion de [la seccion de modelo 3D](./noah-hardware\Doc\3D_model).
 
-There are 2 versions of the robot. The **Noah** version which uses the noah main controller board. If you want to implement your own circuit a **generic** version was also
-designed. 
+Hay dos versiones del robot. La version **Noah** que utiliza la placa controladora principal propia y la genérica que es la que utilizara inicialmente la comunidad de ROS Es/Sp. 
 
-- [Assembly file generic version](Doc/assembly_generic.md).
+- [Ensamble version genérica](Doc/assembly_generic.md).
   
 <img width=500px src="images/../Doc/images/robot_generic.png" alt="Generic version"></a>
 <img width=670px src="images/../Doc/images/noah_generic_2.jpg" alt="Generic version2"></a>
 
-- [Assembly file Noah version](Doc/assembly_noah.md).
+- [Ensamble version Noah](Doc/assembly_noah.md).
   
 <img width=500px src="images/../Doc/images/robot_noah.png" alt="Noah version"></a>
 <img width=390px src="images/../Doc/images/robot_noah2.png" alt="Noah version2"></a>
 
-## Electronics
+## Electrónica
 
 <img src="Doc/images/PCB_finished.png" alt="pcb_finished"></a>
 
