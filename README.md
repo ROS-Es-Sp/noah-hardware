@@ -28,9 +28,9 @@ Este repositorio contiene todas las instancias necesarias para el hardware del n
 
 ## Contexto
 
-Como trabajo final de su tesis, @GonzaCerv decidio armar un robot de cero y compatible con turtlebot; pero tomando en cuenta que las piezas que lo componen puedan ser compradas en latinoamerica. Buscando un proyecto sobre el cual contruir una plataforma en comun para el desarrollo de ROS en los paises hipanoparlantes, La comunidad de ROS Es/Sp toma el proyecto con el objeto de replicarlo y potenciarlo.
+Como trabajo final de su tesis, [@GonzaCerv](https://github.com/GonzaCerv) decidio armar un robot de cero y compatible con turtlebot; pero tomando en cuenta que las piezas que lo componen puedan ser compradas en latinoamerica. Buscando un proyecto sobre el cual contruir una plataforma en comun para el desarrollo de ROS en los paises hipanoparlantes, La comunidad de ROS Es/Sp toma el proyecto con el objeto de replicarlo y potenciarlo.
 
-Algunos de los repositorios originales hermano se pueden encontrar en:
+Algunos de los repositorios hermanos originales se pueden encontrar en:
 
 - [noah-hardware](https://github.com/GonzaCerv/noah-hardware).
 - [noah-software](https://github.com/GonzaCerv/noah-software).
