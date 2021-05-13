@@ -5,7 +5,7 @@
 - [Mechanics assembly](#mechanics-assembly)
   - [Table of Contents](#table-of-contents)
   - [About <a name = "about"></a>](#about-)
-  - [Parts required <a name = "parts_required"></a>](#partes-requeridas)
+  - [Parts required <a name = "partes requeridas"></a>](#partes-requeridas)
   - [Electronics <a name = "electronics"></a>](#electronics-)
     - [Assembly of smps holder <a name = "assembly_smps_holder"></a>](#assembly-of-smps-holder-)
   - [Mechanics <a name = "electronics"></a>](#mechanics-)
