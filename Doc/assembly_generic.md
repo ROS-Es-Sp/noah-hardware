@@ -5,7 +5,7 @@
 - [Mechanics assembly](#mechanics-assembly)
   - [Table of Contents](#table-of-contents)
   - [About <a name = "about"></a>](#about-)
-  - [Parts required <a name = "parts_required"></a>](#parts-required-)
+  - [Parts required <a name = "parts_required"></a>](#partes-requeridas)
   - [Electronics <a name = "electronics"></a>](#electronics-)
     - [Assembly of smps holder <a name = "assembly_smps_holder"></a>](#assembly-of-smps-holder-)
   - [Mechanics <a name = "electronics"></a>](#mechanics-)
@@ -18,22 +18,22 @@
 
 ## About <a name = "about"></a>
 
-This file lists all the necessary steps in order to assembly the mechanics of the robot.
+Este archivo lista todos los pasos necesarios para ensamblar la mecánica del robot.
 
 ----------
 
-## Parts required <a name = "parts_required"></a>
+## Partes requeridas <a name = "partes requeridas"></a>
 
-In order to build the robot you will need some 3D printed parts, some laser cut parts and some vitamins (parts that must be bought). All the models are inside **3D_model**. 
-the files required for materialization are available [here](../3D_model/forConstruction/). In case you need to modify the parts to suit your requirements you can have access to the designs in the [case](../3D_model/case/) section. The designs were made on SolidWorks 2019
+Para poder armar el robot Usted necesitara alguna piezas impresas en 3D, algunas partes elaboradas mediante corte laser and some vitamins (parts that must be bought). Todos los modelos 3D se encuentran en **3D_model**. 
+Los archivos requeridos para la materializacion estan disponibles [aquí](../3D_model/forConstruction/). En el caso de que usted necesite modificar las partes para lograr necesidades personales, Usted puede acceder a los diseños en la sección [carcasa](../3D_model/case/). Los diseños fueron realizados en SolidWorks 2019
 
-You can see that all the parts are grouped into folders. Each folder represent a type of piece that is needed to build the robot. You will need at least one piece of each folder in to build it. multiple designs will be implemented and stored on the same folders. In order to identify the right piece for your project, look for the same project name, for example **_generic** or **_noah** (most of the parts of the same type are interchangeable). 
+Usted puede ver que todas las partes estan agrupadas en carpetas y cada carpeta representa un tipo de pieza que es necesaria para contruir el robot. Como minimo le seran necesarias una pieza de cada tipo de cada carpeta para contruirlo y diseños multiples se iran implementando y guardando en las carpetas en la medida que los distintos miembros de la comunidad realicen sun implementaciones. Con el objeto de indentificar la pieza correcta para su proyecto, busque la misma terminacion o nomemclatura final, por ejemplo **_generic** o **_noah** (la mayoria de las parte del mismo tipo son intercambiables). 
 
-The most biggest parts (base, top and shelf) are designed to be laser cut but it was also provided the files for 3D printing.
+Las partes de mayor tamaño (la base, la cubierta y el cajón) estan diseñadas para ser cortadas mediante laser; pero tambien se provee de los archivos para que se las imprima en 3D.
 
-3D printed elementary parts:
+Partes elementales impresas en 3D:
 
-|Parts              | Quantity | 
+|Partes              | Cantidades | 
 |-------------------|----------|
 | front             |    1    |
 | C000              |    1    |
@@ -50,14 +50,14 @@ The most biggest parts (base, top and shelf) are designed to be laser cut but it
 
 If you are going to use Noah board V2:
 
-|Parts              | Quantity | 
+|Partes              | Cantindades |
 |-------------------|----------|
 | pcb_holder        |    1    |
 | power_button      |    1    |
 
-These are the vitamins, parts that are neither printed nor laser cut.
- 
-|Parts              | Quantity | 
+Estos son las piezas de bulonería que en la jerga de la impresion 3d se llaman vitamins o vitaminas y que es todo lo que no puede ser impreso en 3D o cortado por laser.
+
+|Partes              | Cantidades |
 |-------------------|----------|
 | 10mm M3 screw     |    34    |
 | 10mm M3 washer    |    34    |
