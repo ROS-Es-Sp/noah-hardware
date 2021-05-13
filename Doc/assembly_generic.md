@@ -1,6 +1,6 @@
 # Mechanics assembly
 
-## Table of Contents
+## Tabla de contenidos
 
 - [Mechanics assembly](#mechanics-assembly)
   - [Table of Contents](#table-of-contents)
